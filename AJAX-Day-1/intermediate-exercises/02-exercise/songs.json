@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genre": "Rock",
+    "country": "United Kingdom",
+    "year": "1975"
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "genre": "Pop",
+    "country": "United Kingdom",
+    "year": "1971"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "genre": "Pop",
+    "country": "United States",
+    "year": "1982"
+  },
+  {
+    "title": "Like a Rolling Stone",
+    "artist": "Bob Dylan",
+    "genre": "Rock",
+    "country": "United States",
+    "year": "1965"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "genre": "Rock",
+    "country": "United States",
+    "year": "1976"
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "genre": "Rock",
+    "country": "United Kingdom",
+    "year": "1968"
+  },
+  {
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "country": "United Kingdom",
+    "year": "1971"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "genre": "Pop",
+    "country": "United States",
+    "year": "1983"
+  },
+  {
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "genre": "Soul",
+    "country": "United States",
+    "year": "1971"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "genre": "Grunge",
+    "country": "United States",
+    "year": "1991"
+  },
+  {
+    "title": "Good Vibrations",
+    "artist": "The Beach Boys",
+    "genre": "Pop",
+    "country": "United States",
+    "year": "1966"
+  },
+  {
+    "title": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "genre": "Rock",
+    "country": "United States",
+    "year": "1958"
+  },
+  {
+    "title": "Purple Rain",
+    "artist": "Prince",
+    "genre": "Pop",
+    "country": "United States",
+    "year": "1984"
+  },
+  {
+    "title": "Respect",
+    "artist": "Aretha Franklin",
+    "genre": "Soul",
+    "country": "United States",
+    "year": "1967"
+  },
+  {
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "genre": "Rock",
+    "country": "United States",
+    "year": "1975"
+  },
+  {
+    "title": "Superstition",
+    "artist": "Stevie Wonder",
+    "genre": "Funk",
+    "country": "United States",
+    "year": "1972"
+  },
+  {
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "genre": "Pop",
+    "country": "United States",
+    "year": "1989"
+  },
+  {
+    "title": "I Want to Hold Your Hand",
+    "artist": "The Beatles",
+    "genre": "Rock",
+    "country": "United Kingdom",
+    "year": "1963"
+  },
+  {
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "genre": "Rock",
+    "country": "United States",
+    "year": "1987"
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "genre": "Pop",
+    "country": "Sweden",
+    "year": "1976"
+  }
+]
